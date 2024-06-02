@@ -24,8 +24,8 @@
 
       <main class="px-3">
         <h1>Bem-vindo à aplicação PHP.</h1>
-        <p class="lead">Este é um template obtido de Bootstrap 5. Você pode personalizá-lo conforme necessário.</p>
-        <a href="https://github.com/emilypessoa" class="btn btn-primary">Veja meu GitHub</a>
+        <p class="lead">Página inicial(home) de um projeto criado para ensino de base de dados utilizando a linguegem PHP como linguagem de back-end. Acesse o projeto clicando em:</p>
+        <a href="https://github.com/emilypessoa/LoginCadastroPHP" class="btn btn-primary">GitHub</a>
       </main>
 
       <footer class="mt-auto text-white-50" style="background-color: #212529; padding: 20px;">
