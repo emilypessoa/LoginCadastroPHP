@@ -9,9 +9,13 @@
     <style>
       body, html {
         height: 100%;
+        background-color: #212529; /* cor de fundo */
       }
       .cover-container {
         max-width: 42em;
+      }
+      .text-bg-dark {
+        color: white; /* cor do texto */
       }
     </style>
   </head>
@@ -49,8 +53,9 @@
           </div>
           <button type="submit" class="btn btn-primary">Cadastrar</button>
         </form>
+      </main>
 
-        <footer class="mt-auto text-white-50">
+      <footer class="mt-auto text-white-50">
         <p>Aplicação PHP com Bootstrap 5, by <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>.</p>
         <p>Projeto criado por <a href="https://www.linkedin.com/in/emily-rodrigues-pessoa-186a93268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" style="color: white;">@emilyrodriguespessoa</a>.</p>
       </footer>
