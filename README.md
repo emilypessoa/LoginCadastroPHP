@@ -2,7 +2,7 @@
 
 Este projeto é uma pequena aplicação web desenvolvida em com Bootstrap 5. Ele contém uma tela principal (index.php), uma tela de login (login.php) e uma tela de cadastro (cadastro.php).
 
-
+![img](imagem.gif)
 
 ## Estrutura do Projeto
 
